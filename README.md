@@ -186,30 +186,30 @@ And also deployed the python project to Azure App Service using same command as 
 ## Screenshots
 
 * Project running on Azure App Service
-![Screenshot project running Azure Portal](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/webapp-running-portal.png?raw=true)
+![Screenshot project running Azure Portal](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/webapp-running-portal.png?raw=true)
 
-![Screenshot project running Homepage](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/webapp-running-homepage.png?raw=true)
+![Screenshot project running Homepage](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/webapp-running-homepage.png?raw=true)
 
 * Project cloned into Azure Cloud Shell
-![Screenshot project cloned into Azure Cloud Shell](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/cloud-shell-project-cloned.png?raw=true)
+![Screenshot project cloned into Azure Cloud Shell](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/cloud-shell-project-cloned.png?raw=true)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-![Screenshot output of a test run](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/cloud-shell-make-all.png?raw=true)
+![Screenshot output of a test run](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/cloud-shell-make-all.png?raw=true)
 
 * Output of a test run
-![Screenshot output of a test run](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/cloud-shell-run-tests.png?raw=true)
+![Screenshot output of a test run](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/cloud-shell-run-tests.png?raw=true)
 
 * Successful run of CD in Azure Pipelines.
-![Screenshot stages in Azure Pipelines](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/azure-pipelines-stages.png?raw=true)
+![Screenshot stages in Azure Pipelines](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/azure-pipelines-stages.png?raw=true)
 
 * Successful deploy of the project in Azure Pipelines (automatic deployment).
-![Screenshot deploy in Azure Pipelines](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/deploy-azure-pipelines.png?raw=true)
+![Screenshot deploy in Azure Pipelines](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/deploy-azure-pipelines.png?raw=true)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
-![Screenshot run prediction](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/run-prediction.png?raw=true)
+![Screenshot run prediction](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/run-prediction.png?raw=true)
 
 * Successful load test run with Locust run in Azure Cloud Shell.
-![Screenshot load test](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/locust-load-test-run.png?raw=true)
+![Screenshot load test](https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/locust-load-test-run.png?raw=true)
 
 The screenshot above illustrates execution of the locust command which (as per load test definition in locustfile.py) simulates 10 users accessing the webapp's URL and generating get and post requests repeatedly for the duration of 5 seconds. To run it, just execute: 
 
@@ -218,7 +218,7 @@ udacity@Azure:~$ locust -f locustfile.py --headless -u 10 -r 5 -t 5s
 ```
 
 * Output of streamed log files from deployed application
-![Screenshot application logs](https://github.com/mhg-local/Udacity-DevOps-Azure-Project-2/blob/master/screenshots/logs.png?raw=true)
+![Screenshot application logs]https://github.com/mhg-local/Udacity-Cloud-Azure/tree/main/screenshots/logs.png?raw=true)
 
 Logs can be streamed by:
 
