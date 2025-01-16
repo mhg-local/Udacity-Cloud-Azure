@@ -30,7 +30,7 @@ The project contains a Python Flask WebApp which serves out housing prices predi
 
 * A link to a Trello board for the project: [Udacity Azure Course Project 2](https://trello.com/b/2bKbpU9v/udacity-azure-course-project-2)
 * A link to a spreadsheet that includes the original and final project plan: [Spreadsheet on Google Drive](https://docs.google.com/spreadsheets/d/1VvhKAVZM7I1qVYufkkjYf5vR3nBcCQtji21aupZyXik/edit?usp=sharing)
-  * (Contains 5 sheets: Yearly Project Management Plan, Q1, Q2, Q3, Q4)
+ 
 
 ## Instructions
 
