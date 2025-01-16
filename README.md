@@ -24,9 +24,7 @@ The project contains a Python Flask WebApp which serves out housing prices predi
 
 ## Demo
 
-Link to screencast:
-
-[Project 2 Demo - CI/CD](https://github.com/mhg-local/Udacity-Cloud-Azure/blob/main/screenshots/video.mp4)
+[Link to download the project Demo - CI/CD](https://github.com/mhg-local/Udacity-Cloud-Azure/blob/main/screenshots/video.mp4)
 
 ## Project Plan
 
